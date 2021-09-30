@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "846467231204",
+    "firebase_url": "https://cretan-gorges-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cretan-gorges",
+    "storage_bucket": "cretan-gorges.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846467231204:android:ee17d9ad4b83d05dfc2bf1",
+        "android_client_info": {
+          "package_name": "gr.unipi.cretangorges"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846467231204-r16tgmc7bpd4ik86vodumcc4ihc616d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaWUjEIjjkNdrwfnJcoLtGo75fnWAOfJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846467231204-r16tgmc7bpd4ik86vodumcc4ihc616d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
